@@ -1,5 +1,6 @@
 {
   "name": "client_react_frontend",
+  "homepage": "https://marifinstad.github.io/marifinstad.git.io/",
   "version": "0.1.0",
   "proxy": "http://localhost:5000",
   "private": true,
