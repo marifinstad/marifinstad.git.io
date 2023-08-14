@@ -1,4 +1,6 @@
 {
+  "homepage": "https://marifinstad.github.io/marifinstad.git.io/",
+
   "dependencies": {
     "@types/react-router-dom": "^5.3.3",
     "emailjs-com": "^3.2.0",
