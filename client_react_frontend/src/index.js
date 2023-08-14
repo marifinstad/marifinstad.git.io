@@ -4,15 +4,15 @@ import './index.css';
 import App from './client_react_frontend/src/App';
 import reportWebVitals from './client_react_frontend/src/reportWebVitals';
 
-ReactDOM.render(<App/>, document.querySelector("#root"));
+//ReactDOM.render(<App/>, document.querySelector("#root"));
 
-// const root = ReactDOM.createRoot(document.getElementById('root'));
-//root.render(
-//  <React.StrictMode>
-//    <App />
-//  </React.StrictMode>
+const root = ReactDOM.createRoot(document.getElementById('root'));
+root.render(
+  <React.StrictMode>
+    <App />
+  </React.StrictMode>
   
-//);
+);
 
 // If you want to start measuring performance in your app,  pass a function
 // to log results (for example: reportWebVitals(console.log))
